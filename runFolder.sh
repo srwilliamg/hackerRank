@@ -1,2 +1,2 @@
 #!/usr/bin/env sh
-node ./$1/test.js < ./$1/input00.txt
+OUTPUT_PATH=./out node ./$1/test.js < ./$1/input00.txt

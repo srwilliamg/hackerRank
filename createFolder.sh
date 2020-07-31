@@ -1,2 +1,2 @@
 #!/usr/bin/env sh
-cp -r lvl11Substring/ $1
+cp -r lvl11_Substring/ $1
